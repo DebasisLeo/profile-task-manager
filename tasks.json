@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "Build Login API",
+      "description": "Implement user authentication with JWT",
+      "status": "In Progress"
+      
+    },
+    {
+      "id": 2,
+      "title": "Create Task UI",
+      "description": "Design frontend for task creation and listing",
+      "status": "To Do"
+    },
+    {
+      "id": 3,
+      "title": "Setup Database Schema",
+      "description": "Define users and tasks tables with relations",
+      "status": "Completed"
+    },
+    {
+      "id": 4,
+      "title": "Write Unit Tests",
+      "description": "Add Jest tests for task API endpoints",
+      "status": "To Do"
+    }
+  ]
+  
